@@ -5,8 +5,3 @@
 
 everything is the same for other swaps like:
 paraswap, uniswap
-
-Testing
-
-Integrations test: Kovan
-Unit tests: Mainnet-fork
